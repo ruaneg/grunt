@@ -1,8 +1,8 @@
 {
-  "name": "grunt",
+  "name": "grunt-es6",
   "description": "The JavaScript Task Runner - Patched with Fix #1595",
   "version": "1.0.0",
-  "author": "Grunt Development Team (https://gruntjs.com/development-team)",
+  "author": "Gary Ruane",
   "homepage": "https://gruntjs.com/",
   "repository": "https://github.com/ruaneg/grunt.git",
   "license": "MIT",
